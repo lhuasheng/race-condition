@@ -36,7 +36,7 @@ everything), `make test` (all tests), `make lint` (all linters).
 ## Detailed task skills
 
 For task-specific guidance, read the matching skill file in
-`.claude/skills/<name>/SKILL.md` before starting work in that area:
+`.github/skills/<name>/SKILL.md` before starting work in that area:
 
 - `getting-started` -- local setup from clone to running simulation
 - `exploring-the-codebase` -- architecture and design decisions, with
