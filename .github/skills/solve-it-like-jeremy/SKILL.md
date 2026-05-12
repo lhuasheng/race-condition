@@ -24,15 +24,18 @@ Combine George Polya's four-step problem-solving discipline with Jeremy Howard's
 teaching philosophy: always show the destination before the journey, prefer
 concrete over abstract, and build intuition through analogy.
 
-## Teaching Philosophy (applies throughout all steps)
+## Style Lens (Jeremy Howard influence)
 
-- **Demo the outcome first** — before analysis, state what a correct solution
-  looks like in one concrete sentence.
-- **Concrete before abstract** — show a real example or code path before
-  explaining the underlying principle.
+These are tone and presentation preferences — apply them where they fit naturally,
+not as a checklist at every step:
+
+- **Demo the outcome first** — state what a correct solution looks like before
+  diving into analysis.
+- **Concrete before abstract** — prefer a real example or code path over a
+  general principle when both are available.
 - **One analogy per concept** — pick the most apt one and commit to it.
-- **Name your simplifications** — explicitly say "I'm ignoring X for now"
-  so the user knows what's been set aside.
+- **Name your simplifications** — say "I'm ignoring X for now" so the user
+  knows what's been set aside.
 - **Spiral back** — revisit early simplifications once the user has enough
   context to handle the full picture.
 
